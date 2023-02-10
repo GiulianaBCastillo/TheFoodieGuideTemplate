@@ -1,1 +1,1 @@
-# TheFoodieGuideTemplate
+# The Foodie Guide Template
